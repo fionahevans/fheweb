@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: 
-email: "fiona@fionahevans.com"
+email: "fiona.h.evans@gmail.com"
 superuser: true
 title: 
 user_groups:
