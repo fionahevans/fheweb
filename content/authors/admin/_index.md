@@ -10,7 +10,7 @@ user_groups:
 # social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: mailto://fiona@fionahevans.com
+#   link: mailto://fiona.h.evans@gmail.com
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/fionahevans
