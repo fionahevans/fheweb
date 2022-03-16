@@ -19,7 +19,6 @@ user_groups:
 
 I am a writer, currently revising my first novel. This blog shares my short stories and adventures in writing. 
 
-
 <i class="fab fa-twitter" style="color:#2d8aa9"></i><a href="https://twitter.com/FionaHEvans">
 Fiona H Evans</a>
 
