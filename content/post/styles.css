@@ -1,0 +1,29 @@
+/* CSS Stylesheet*/
+
+body{ /* Normal  */
+  font-size: 12pt;
+}
+td {  /* Table  */
+  font-size: 10pt;
+}
+title {
+  font-size: 38pt;
+}
+h1 { /* Header 1 */
+  font-size: 28pt;
+}
+h2 { /* Header 2 */
+  font-size: 22pt;
+}
+h3 { /* Header 3 */
+  font-size: 18pt;
+}
+code.r{ /* Code block */
+  font-size: 10pt;
+}
+pre { /* Code block - determines code spacing between lines */
+  font-size: 10pt;
+}
+blockquote {
+  font-size: 10pt;
+}

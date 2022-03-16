@@ -1,4 +1,3 @@
-web:  Lovelace Analytics web site
+web:  Fiona H Evans web site
 ====================================================
 
-Last updated 2022-02-22
