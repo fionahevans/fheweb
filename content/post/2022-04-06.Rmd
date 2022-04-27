@@ -100,4 +100,6 @@ Michael rubs at the patch of rotting flesh just inside his collar.
 
 “Oh, I think it will. I just don’t know how long it will last.”
 
+### Prompt
 
+Write a story that is mainly dialogue.

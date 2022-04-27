@@ -72,4 +72,7 @@ I scramble through my pack but there’s nothing useful in there. Clothes. Phone
 I always pack my revolver.
 
 
+### Prompt
+
+Write a story that starts with the line "What do you pack when you have eight minutes to leave?"
 

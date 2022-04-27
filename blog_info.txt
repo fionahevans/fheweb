@@ -3,6 +3,8 @@
 blogdown::update_hugo() 
 install.packages("later")
 
+wowchemy
+
 blogdown::new_site(theme = "gcushen/hugo-academic", empty_dirs = T) 
 
 blogdown::serve_site()
