@@ -58,7 +58,7 @@ subtitle = ""
            alt="Typewriter showing text: the best way is to start">}}
 
 
-I am a mathematician, research scientist and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar Boodja with a dog, a cat and two chickens who deign to lay eggs. This blog shares my short stories and adventures in writing.  
+I am a mathematician, research scientist and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar Boodja with a dog, a cat and two chickens too old to lay eggs. This blog shares my short stories and adventures in writing.  
 
 <i class="fab fa-twitter" style="color:#2d8aa9"></i><a href="https://twitter.com/FionaHEvans">Fiona H Evans</a>
 
