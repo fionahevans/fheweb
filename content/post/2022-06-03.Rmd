@@ -29,7 +29,7 @@ My husband lowers the iron, and with a gentleness I’ve never seen before, he p
 
 [Inspired by the cover of "Burn Patterns", Ron Elliott, Fremantle Press]
 
-<!--  image in assets/media -->
+<!--  image in static/media -->
 <!-- ![Domestic Bliss](WritingWA.jpg) -->
-![](WritingWA.jpg)
+![](/WritingWA.jpg) 
 <br>
