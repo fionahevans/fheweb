@@ -10,7 +10,7 @@ tags: ["Drabble", "Microfiction"]
 
 My entry the WA Writing Love to Read Local Flash Fiction Competition is  [online](https://ltrl.writingwa.org/flash-fiction-competition-entries/page/8/#book1603).
 
-
+<!--
 <b>Domestic bliss</b>
 
 The sickly sweet aroma of singed flesh tickles my nostrils as he tests the heat with his finger.
@@ -27,9 +27,9 @@ I watch, wide-eyed, as his jaw clenches and a muscle in his cheek twitches. I ca
 
 My husband lowers the iron, and with a gentleness I’ve never seen before, he presses the wrinkles from my new business shirt.
 
-[Inspired by the cover of "Burn Patterns", Ron Elliott, Fremantle Press]
+[Inspired by the cover of "Burn Patterns", Ron Elliott, Fremantle Press] -->
 
 <!--  image in static/media -->
 <!-- ![Domestic Bliss](WritingWA.jpg) -->
-![](WritingWA.jpg) 
-<br>
+![](/media/img/WritingWA.jpg) 
+<br> 
