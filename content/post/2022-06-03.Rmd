@@ -1,0 +1,15 @@
+---
+title: "Domestic Bliss"
+author: "Fiona H Evans"
+date: 2022-06-01T00:00:00Z
+fontsize: 12pt
+css: "styles.css"
+categories: ["Drabble", "Microfiction"]
+tags: ["Drabble", "Microfiction"] 
+---
+
+My entry the WA Writing Love to Read Local Flash Fiction Competition is  
+[online](https://ltrl.writingwa.org/flash-fiction-competition-entries/page/8/#book1603).
+<!--  image in assets/media -->
+
+![Domestic Bliss](WritingWA.jpg)
