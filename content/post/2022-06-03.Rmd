@@ -31,3 +31,5 @@ My husband lowers the iron, and with a gentleness I’ve never seen before, he p
 
 <!--  image in assets/media -->
 <!-- ![Domestic Bliss](WritingWA.jpg) -->
+![](WritingWA.jpg)
+<br>
