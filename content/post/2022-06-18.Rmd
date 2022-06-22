@@ -1,5 +1,5 @@
 ---
-title: "When I quit my toxic job to find someting better"
+title: "When I quit my toxic job to find something better"
 author: "Fiona H Evans"
 date: 2022-06-18T00:00:00Z
 fontsize: 12pt
