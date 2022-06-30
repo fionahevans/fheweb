@@ -4,13 +4,13 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 height = "300px"
 
-title = "About"
+title = ""
 subtitle = ""
 
 [design]
@@ -31,7 +31,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg"  # Name of image in `static/media/`.
+  image = "wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg"  # Name of image in `static/media/`.
   # image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "left"  # Options include `left`, `center` (default), or `right`.
@@ -53,18 +53,38 @@ subtitle = ""
  css_class = ""
 +++
 
+<!-- Figure in static 
 
 {{< figure src="wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg" 
            alt="Typewriter showing text: the best way is to start">}}
+-->
 
-
-I am a mathematician, research scientist and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar Boodja with a dog, a cat and two chickens too old to lay eggs. This blog shares my short stories and adventures in writing.  
-
-<i class="fab fa-twitter" style="color:#2d8aa9"></i><a href="https://twitter.com/FionaHEvans">Fiona H Evans</a>
 
 <!--
-&nbsp;<br/><br/>
+
+<table>
+  <tr>
+    <td style="margin: 2em 2em 2em 2em; border: 0; background-color: white;">       
+      <img style="width: 20em;"
+           src="/media/img/FionaEvans.jpg" alt="Fiona H Evans">
+    </td>
+    <td style="margin: 2em 2em 2em 2em; border: 0; background-color: white;">
+      I am a mathematician, research scientist and writer, currently revising my 
+      first novel. I live in Perth, Western Australia, on Noongar Boodja with a dog, 
+      a cat and two chickens too old to lay eggs. This blog shares my short stories 
+      and adventures in writing.  
+      <br>
+      <br>
+      <i class="fab fa-twitter" style="color:#2d8aa9"></i>
+      <a href="https://twitter.com/FionaHEvans"> Fiona H Evans</a>
+    </td>
+  </tr>
+</table>
 -->
+
+
+&nbsp;<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 
 
