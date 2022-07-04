@@ -15,8 +15,10 @@ user_groups:
 #   icon_pack: fab
 #   link: https://twitter.com/fionahevans
 ---
-
+<!--
 <br/><br/><br/>
+-->
+# About me
 I am a mathematician, research scientist and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar Boodja with a dog, a cat and two chickens too old to lay eggs. This blog shares my short stories and adventures in writing. 
 
 <i class="fab fa-twitter" style="color:#2d8aa9"></i>&nbsp; <a href="https://twitter.com/FionaHEvans">
