@@ -6,6 +6,7 @@ fontsize: 12pt
 css: "styles.css"
 categories: ["Short stories"]
 tags: ["Short stories"]
+share: false
 ---
 
 I penned the first draft of 'Darkside' as part of my homework for a short story course presented by Maria Bonar from the [Society of Women's Writers Western Australia](https://www.swwofwa.com.au/whats-on.html).

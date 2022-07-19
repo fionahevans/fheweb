@@ -6,6 +6,7 @@ fontsize: 12pt
 css: "styles.css"
 categories: ["Microfiction", "Nanofiction"]
 tags: ["Microfiction", "Nanofiction"]
+share: false
 ---
 
 Nanoism is a twitterzine, an online publication for Twitter fiction: stories with a maximum of 140 characters (conforming to the original inherent limitations of the Twitter service).
@@ -14,13 +15,13 @@ My nanofiction compressed a longer piece, first written during an afternoon of c
 
 Read it at [Nanoism](https://nanoism.net/stories/959/).
 
-![Wendy feels panicky. The bread is moldy, there is nothing to cook for lunch, and her son is already talking about Sunnyside retirement home.](/media/img/nanoism.jpg) 
+![](/media/img/nanoism.jpg) 
 
 I love that 140 characters captures most of the original story that aimed to include the words: liquid, scratch, panicky, caption and wealth.
 
 Here's the original, unedited:
 <br/>
-<br>/
+<br/>
 <i>
 Wendy is feeling panicky. She pulls up her sleeve and scratches the crepey skin underneath. The pumpkin that was perfectly ripe yesterday is rotting with liquid oozing from inside and dripping into the fridge. She doesn’t have time to wipe it up, let alone drive to the supermarket for another pumpkin. Her guests are arriving in under an hour, and she’ll have to make something other than the soup she’d planned. 
 

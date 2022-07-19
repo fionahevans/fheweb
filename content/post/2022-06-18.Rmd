@@ -6,6 +6,7 @@ fontsize: 12pt
 css: "styles.css"
 categories: ["Microfiction"]
 tags: ["Microfiction"]
+share: false
 ---
 
 I wrote this little piece for my best friend and muse, Gillian Carter: read it at [Six Sentences](https://sixsentences.blogspot.com/2022/06/when-i-quit-my-toxic-job-to-find.html).
