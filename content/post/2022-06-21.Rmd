@@ -1,5 +1,5 @@
 ---
-title: "My first story in an anthology"
+title: "I've been published in an anthology!"
 author: "Fiona H Evans"
 date: 2022-06-21T00:00:00Z
 fontsize: 12pt
@@ -8,6 +8,7 @@ categories: ["Microfiction"]
 tags: ["Microfiction"]
 share: false
 ---
+
 
 I created my Twitter profile to enter a competition run by Ben Warden as @FlashSerious. I entered two Twitter-length stories with the hashtag #SFFiction and was over the moon when I was announced as one of the winners on 25 April 2022. You can read my winning story on [Twitter](https://twitter.com/FionaHEvans/status/1501787496426131456).
 
