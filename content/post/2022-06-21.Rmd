@@ -1,0 +1,16 @@
+---
+title: "My first story in an anthology"
+author: "Fiona H Evans"
+date: 2022-06-21T00:00:00Z
+fontsize: 12pt
+css: "styles.css"
+categories: ["Microfiction"]
+tags: ["Microfiction"]
+share: false
+---
+
+I created my Twitter profile to enter a competition run by Ben Warden as @FlashSerious. I entered two Twitter-length stories with the hashtag #SFFiction and was over the moon when I was announced as one of the winners on 25 April 2022. You can read my winning story on [Twitter](https://twitter.com/FionaHEvans/status/1501787496426131456).
+
+
+Today, my story was was published in an anthology that you can buy from Amazon: [2022 Anthology (Volume 8)](https://www.amazon.com.au/Serious-Flash-Fiction-Single-collection/dp/B0B4JS8KM7/ref=sr_1_1?crid=1V8YDNEGYF9P3&keywords=serious+flash+fiction+2022&qid=1659411511&s=digital-text&sprefix=serious+flash+fiction+2022%2Cdigital-text%2C282&sr=1-1-catcorr) or [Volumes 1-8 in a single book](https://www.amazon.com.au/gp/product/B0B4R1538C?ref_=dbs_m_mng_rwt_calw_tpbk_6&storeType=ebooks&qid=1659411511&sr=1-1-catcorr). 
+
