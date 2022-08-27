@@ -24,6 +24,5 @@ subtitle: ""
 
 [When I quit my toxic job to find something better](https://sixsentences.blogspot.com/2022/06/when-i-quit-my-toxic-job-to-find.html) (18/6/2022)
 
-
 [Bittersweet](https://microfictionmondaymagazine.com/2022/05/30/microfiction-monday-136th-edition/) (30/5/2022)
 
