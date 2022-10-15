@@ -6,7 +6,7 @@ fontsize: 12pt
 css: "styles.css"
 categories: ["Poetry"]
 tags: ["Poetry"]
-share: false
+share: true
 ---
 
 
