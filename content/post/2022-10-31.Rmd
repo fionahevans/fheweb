@@ -1,0 +1,13 @@
+---
+title: "A Halloween Tale"
+author: "Fiona H Evans"
+date: 2022-09-26T00:00:00Z
+fontsize: 12pt
+css: "styles.css"
+categories: ["Poetry"]
+tags: ["Poetry"]
+share: true
+---
+
+
+My take on a Halloween story:  [A Halloween Tale](http://fiftywordstories.com/2022/10/31/fiona-h-evans-a-halloween-tale/)

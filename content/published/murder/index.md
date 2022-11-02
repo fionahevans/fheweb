@@ -7,7 +7,7 @@ image:
 summary: Dribble, 1 Aug 2022
 tags:
 - Published
-title: A murder on the wing
+title: A Murder on the Wing
 ---
 <!--
 # Image by <a href="https://pixabay.com/users/rodcleasby-15768180/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4973794">Rod Cleasby</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4973794">Pixabay</a>
