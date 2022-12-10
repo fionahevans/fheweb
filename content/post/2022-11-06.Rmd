@@ -1,0 +1,13 @@
+---
+title: "Story of the Week"
+author: "Fiona H Evans"
+date: 2022-11-06T00:00:00Z
+fontsize: 12pt
+css: "styles.css"
+categories: ["Micro", "Dribble"]
+tags: ["Micro", "Dribble"]
+share: true
+---
+
+
+Oh, how wonderful to wake on a Monday morning and find this in my feed! "A Halloween Tale" was selected as story of the week at [50-Word Stories](http://fiftywordstories.com/2022/11/06/story-of-the-week-november-6-2//)
