@@ -4,7 +4,7 @@ external_link: https://microfictionmondaymagazine.com/2022/05/30/microfiction-mo
 image:
   caption: Bittersweet 
   focal_point: Smart
-summary: Microfiction, 30 May 2022
+summary: Microfiction Monday, 30 May 2022
 tags:
 - Published
 title: Bittersweet

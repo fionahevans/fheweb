@@ -4,7 +4,7 @@ external_link: https://nanoism.net/stories/959/
 image:
   caption: Nanoism
   focal_point: Smart
-summary: Nanoficton on nanosim.net, 29 Jun 2022
+summary: Nanoism, 29 Jun 2022
 tags:
 - Published
 title: Nanoism

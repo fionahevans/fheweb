@@ -4,7 +4,7 @@ external_link: https://thedrabble.wordpress.com/2022/09/26/flow/
 image:
   caption: Flow 
   focal_point: Smart
-summary: Poetry, 26 Sep 2022
+summary: The Drabble, 26 Sep 2022
 tags:
 - Published
 title: Flow
