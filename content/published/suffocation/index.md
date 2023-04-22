@@ -4,7 +4,7 @@ external_link: http://fiftywordstories.com/2023/03/14/fiona-h-evans-suffocation/
 image:
   caption: Wallflower 
   focal_point: Smart
-summary: 50-Word Stories, 14 March 2023
+summary: 50-Word Stories, 14 Mar 2023
 tags:
 - Published
 title: Suffocation

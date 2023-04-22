@@ -4,7 +4,7 @@ external_link: https://www.fridayflashfiction.com/100-word-stories/love-blooms-a
 image:
   caption: Love Blooms and Dies But Never Fades 
   focal_point: Smart
-summary: Friday Flash Fiction, 6 January 2023
+summary: Friday Flash Fiction, 6 Jan 2023
 tags:
 - Published
 title: Love Blooms and Dies But Never Fades

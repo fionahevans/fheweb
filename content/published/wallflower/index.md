@@ -4,7 +4,7 @@ external_link: https://www.fridayflashfiction.com/100-word-stories/wallflower-by
 image:
   caption: Wallflower 
   focal_point: Smart
-summary: Friday Flash Fiction, 30 December 2022
+summary: Friday Flash Fiction, 30 Dec 2022
 tags:
 - Published
 title: Wallflower
