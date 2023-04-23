@@ -19,7 +19,7 @@ user_groups:
 <br/><br/><br/>
 -->
 # About me
-I am a mathematician and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar Boodja with a dog, a cat and a few bantams. This blog shares my short stories and adventures in writing. 
+I am a mathematician and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar Boodja with a dog, a cat and a few bantams. This blog shares my adventures in writing since attending a short story course in March 2022. 
 
 <i class="fab fa-twitter" style="color:#2d8aa9"></i>&nbsp; <a href="https://twitter.com/FionaHEvans">
  Fiona H Evans</a>
