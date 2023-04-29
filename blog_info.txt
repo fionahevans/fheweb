@@ -4,6 +4,7 @@ blogdown::update_hugo()
 install.packages("later")
 
 wowchemy
+https://nickballou.com/blog/custom-wowchemy/
 
 blogdown::new_site(theme = "gcushen/hugo-academic", empty_dirs = T) 
 
