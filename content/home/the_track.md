@@ -1,7 +1,7 @@
 +++
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "The Track"
 subtitle = ""
@@ -46,4 +46,4 @@ subtitle = ""
 
 Lee’s boyfriend dumps her because she’s miserable, so she decides to hike 1,000 km on the Bibbulmun Trackin south-west Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery.
 
-[Learn more about my first novel, currently in revision]({{< ref "the_track/index.md" >}})
+[Read an extract my first novel, currently in revision.]({{< ref "the_track/index.md" >}})
