@@ -4,7 +4,7 @@ external_link: http://fiftywordstories.com/2022/10/31/fiona-h-evans-a-halloween-
 image:
   caption: A murder on the wing 
   focal_point: Smart
-summary: Fifty Word Stories, 31 Oct 2022
+summary: 50-Word Stories, 31 Oct 2022
 tags:
 - Published
 title: A Halloween Tale
