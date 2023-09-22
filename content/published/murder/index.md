@@ -4,7 +4,7 @@ external_link: https://fiftywordstories.com/2022/08/01/fiona-h-evans-a-murder-on
 image:
   caption: A murder on the wing 
   focal_point: Smart
-summary: Fifty Word Stories, 1 Aug 2022
+summary: 50-Word Stories, 1 Aug 2022
 tags:
 - Published
 title: A Murder on the Wing
