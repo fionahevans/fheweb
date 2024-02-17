@@ -13,11 +13,12 @@ comments: false
 -->
 Lee’s boyfriend dumps her because she’s miserable, so she decides to hike 1,000 km on the Bibbulmun Track in south-west Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery. 
 
-#### Currently revising... read an extract below. 
+#### Watch this space... 
 
 
 ![](cover.jpg) 
 
+<!--
 
 Lee stared at the phone. She didn’t want to answer the call. It was her mother. She dreaded telling her what had happened.
 
@@ -164,4 +165,4 @@ Her shrill voice resounded off the walls.
 “If you leave now, don’t expect me to come running when you need my help!”
 
 
-
+-->
