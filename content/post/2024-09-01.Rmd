@@ -1,0 +1,33 @@
+---
+title: "Highly Commended Haiku"
+author: "Fiona H Evans"
+date: 2024-09-01T00:00:00Z
+fontsize: 12pt
+css: "styles.css"
+categories: ["Haiku"]
+tags: ["Haiku", "Poetry"] 
+share: false
+---
+
+The Haiku on Hay Poetry Competition was run by the City of Perth Library in conjunction with the 2024 Perth Poetry Festival. I was thrilled to be awarded a Highly Commended Certificate for my haiku:
+
+<p style="margin-left: 25px;"><i>
+when the waves <br>
+of grief recede <br>
+a ripple
+</i></p>
+
+
+
+
+
+
+![](/media/img/haiku_on_hay.jpg)
+
+
+
+
+
+
+
+
