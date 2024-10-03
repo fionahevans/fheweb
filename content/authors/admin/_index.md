@@ -21,7 +21,7 @@ user_groups:
 # About me
 I am a mathematician and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar boodja. 
 
-I acknowledge and pay my respected to the traditional custodians of this country, the Whadjuk people of the Noongar nation. I recognise the strength, resilience and capacity of the Noongar people, their continuing culture and the contribution they make to life in this beautiful part of the world.
+I acknowledge and pay my respects to the traditional custodians of this country, the Whadjuk people of the Noongar nation. I recognise the strength, resilience and capacity of the Noongar people, their continuing culture and the contribution they make to life in this beautiful part of the world.
 
 This blog shares my adventures in writing since attending a short story course in March 2022. 
 
