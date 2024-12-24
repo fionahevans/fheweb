@@ -10,5 +10,5 @@ tags:
 title: Artichoke Heart
 ---
 <!--
-Image by Annette from Pixabay
+
 -->

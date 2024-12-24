@@ -1,6 +1,6 @@
 ---
 date: "2024-11-27T00:00:00Z"
-external_link: https://preview.mailerlite.com/d2w1t6i9q7/2641506700162505648/t1o8/
+external_link: https://wapoets.com/creatrix-67-haiku/#Fiona
 image:
   caption: Release 
   focal_point: Smart
