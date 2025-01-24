@@ -1,6 +1,6 @@
 ---
 date: "2025-01-24T00:00:00Z"
-external_link: C:/Fiona/fheweb/content/published/artichoke_heart
+external_link: https://echapbook.com/micros/micro-issue2.html#sock
 image:
   caption: Sock 
   focal_point: Smart
