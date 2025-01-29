@@ -2,7 +2,7 @@
 date: "2022-08-01T00:00:00Z"
 external_link: https://fiftywordstories.com/2022/08/01/fiona-h-evans-a-murder-on-the-wing/
 image:
-  caption: A murder on the wing 
+  caption: A picture of a murder of crows on a fence, from PixaBay by Rod Cleasby. 
   focal_point: Smart
 summary: 50-Word Stories, 1 Aug 2022
 tags:

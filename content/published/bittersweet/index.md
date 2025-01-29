@@ -2,7 +2,7 @@
 date: "2022-05-30T00:00:00Z"
 external_link: https://microfictionmondaymagazine.com/2022/05/30/microfiction-monday-136th-edition/
 image:
-  caption: Bittersweet 
+  caption: An image of a boy wearing a superman t-shirt.
   focal_point: Smart
 summary: Microfiction Monday, 30 May 2022
 tags:

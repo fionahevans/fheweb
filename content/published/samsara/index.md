@@ -2,7 +2,7 @@
 date: "2024-05-29T00:00:00Z"
 external_link: https://fiftywordstories.com/2024/05/29/fiona-h-evans-samsara/
 image:
-  caption: Flow 
+  caption: A picture of a hand touching a small seedling, from Pxabay by Lukas Johnns.  
   focal_point: Smart
 summary: 50-Word Stories, 29 May 2024
 tags:

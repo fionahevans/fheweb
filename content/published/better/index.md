@@ -2,7 +2,7 @@
 date: "2024-04-04T00:00:00Z"
 external_link: http://fiftywordstories.com/2024/04/04/fiona-h-evans-better/
 image:
-  caption: Flow 
+  caption: An image of two women holding each other in a hug. 
   focal_point: Smart
 summary: 50-Word Stories, 4 Apr 2024
 tags:

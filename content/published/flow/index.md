@@ -2,7 +2,7 @@
 date: "2022-09-26T00:00:00Z"
 external_link: https://thedrabble.wordpress.com/2022/09/26/flow/
 image:
-  caption: Flow 
+  caption: An image of a woman sitting on a surfboard in the ocean, from Unsplash by Bradley Dunn.   
   focal_point: Smart
 summary: The Drabble, 26 Sep 2022
 tags:

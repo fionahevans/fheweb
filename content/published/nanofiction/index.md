@@ -2,7 +2,7 @@
 date: "2022-06-29T00:00:00Z"
 external_link: https://nanoism.net/stories/959/
 image:
-  caption: Nanoism
+  caption: A picture of an old woman's hands resting on her cane, from Pixabay by Alexas Fotos. 
   focal_point: Smart
 summary: Nanoism, 29 Jun 2022
 tags:
