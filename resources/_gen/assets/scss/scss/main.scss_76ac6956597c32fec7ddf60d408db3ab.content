@@ -7161,7 +7161,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: #fff;
+  background-color: white;
   margin-top: 70px;
   /* Offset body content by navbar height. */
   padding-top: 0;
@@ -7355,7 +7355,7 @@ small,
  *  Modals.
  **************************************************/
 .modal-content {
-  background: #fff; }
+  background: white; }
 
 .modal-title {
   margin: 0;
@@ -7930,7 +7930,7 @@ a.summary-link {
 .search-results {
   transform: scale(0);
   -webkit-transform: scale(0);
-  background-color: #fff;
+  background-color: white;
   bottom: 0;
   left: 0;
   right: 0;
@@ -7969,7 +7969,7 @@ a.summary-link {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: #fff;
+  background-color: white;
   padding-top: 2rem;
   padding-bottom: 1rem; }
 
