@@ -11,7 +11,7 @@ weight = 1  # Order that this section will appear.
 # I cannpt get this to resize responsively! 
 [design.background]
   image = "wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg"  # Name of image in `static/media/`
-  image_size = "cover" # contain, cover or actual
+  image_size = "contain" # contain, cover or actual
   image_parallax = true # responsive 
   image_position = "center"
   color = "white" # Background color.
