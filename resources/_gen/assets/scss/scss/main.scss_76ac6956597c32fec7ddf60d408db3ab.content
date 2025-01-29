@@ -8426,6 +8426,13 @@ ul.share li:hover i {
   height: 100%;
   background-attachment: fixed; }
 
+@media (hover: none) {
+  .parallax {
+    height: auto;
+    background-attachment: scroll;
+    background-size: contain;
+    background-repeat: repeat; } }
+
 .home-section:first-of-type {
   padding-top: 50px; }
 
