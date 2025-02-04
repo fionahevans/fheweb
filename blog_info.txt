@@ -1,10 +1,17 @@
 # https://www.storybench.org/how-to-build-a-website-with-blogdown-in-r/
+# https://georgecushen.com/create-your-website-with-hugo/
+# https://github.com/Xipas/hugo-academic
 
 blogdown::update_hugo() 
 install.packages("later")
 
-wowchemy
+wowchemy https://bootstrap.hugoblox.com/
+https://docs.hugoblox.com/
 https://nickballou.com/blog/custom-wowchemy/
+
+
+# Images for blog posts are stored in static/media/img
+
 
 blogdown::new_site(theme = "gcushen/hugo-academic", empty_dirs = T) 
 
