@@ -4,7 +4,7 @@ external_link: https://echapbook.com/micros/micro-issue2.html#sock
 image:
   caption: A close-up of a mature woman's hands, holding a needle delicately as she carefully mends a hole in the heel of a sock.
   focal_point: Smart
-summary: Wordrunner eChapbooks Micro-Prose Issue 2, 29 Dec 2024
+summary: Wordrunner eChapbooks Micro-Prose Issue 2, 24 Jan 2025
 tags:
 - Published
 title:  How to Darn a Sock
