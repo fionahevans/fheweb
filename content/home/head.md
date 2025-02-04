@@ -8,7 +8,7 @@ headless = true
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-# I cannpt get this to resize responsively! 
+# I cannot get this to resize responsively! 
 [design.background]
   image = "wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg"  # Name of image in `static/media/`
   image_size = "cover" # contain, cover or actual

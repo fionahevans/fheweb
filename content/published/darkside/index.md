@@ -1,6 +1,5 @@
 ---
 date: "2022-07-01T00:00:00Z"
-external_link: https://issuu.com/hauntedwordspress/docs/haunted_words_press_issue_one_2_
 image:
   caption: An image showing the Magazine, titled Begin, by Haunted Words Press.   
   focal_point: Smart
@@ -8,7 +7,10 @@ summary: Haunted Words Press, 1 Jul 2022
 tags:
 - Published
 title: Darkside
+subtitle: "First Published in <a href = 'https://www.hauntedwordspress.com/'>Haunted Words Press</a>, Issue 1: Begin."
 ---
+
+First Published in <a href = 'https://www.hauntedwordspress.com/'>Haunted Words Press</a>, Issue 1: Begin, 1 Jul 2022.
 
 The Darkside Mortuary lies on the boundary between the countryside and the woods. Sad visitors, and they are mostly all sad, approach the mortuary via a long avenue of elegant silver birch. No matter the time of day, sunlight slips through the leafy canopy to dance upon the gravel driveway. The city’s noise falls away, and a sense of peace descends. A widow who’d thought her senses numbed by loss might detect the fragrance of lavender and dawdle by the flower garden in the centre of the forecourt. 
 
