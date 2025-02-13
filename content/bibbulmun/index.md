@@ -13,7 +13,9 @@ comments: false
 -->
 
 
-Lee’s boyfriend dumps her because she’s miserable, so she decides to hike 1,000 km on the Bibbulmun Track in south-west Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery.
+Lee’s boyfriend dumps her because she’s miserable so she decides to hike the Bibbulmun Track, a thousand kilometre walking trail through the south-west of Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery. 
+
+Bibbulmun is a story about how nature and human connection help one woman find her path forward from a dark place. Set along the Bibbulmun Track in the south-west of Western Australia, it pays tribute to the changing beauty of the landscape, its flora and fauna, the diverse characters who live in and visit the area and the language, culture and history of the Noongar Whadjuk people who are the traditional custodians of this country.
 
 #### Read an extract below...
 
