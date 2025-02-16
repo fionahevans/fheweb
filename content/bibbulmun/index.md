@@ -131,6 +131,7 @@ Lee slumped. She’d never been able to argue with her mother. No one could. Eve
 “What are you going to do then?” her mother asked, her tone exasperated.
 
 “I’m going to hike the Bibbulmun Track,” Lee answered. “I’m going to get away from the city and find some peace and quiet. So, I can pull myself together and work out what to do.”
+
 Flinging down the knife, her mother said, “You listen to me, Leanne Kelley! What you need to do is go beg for your job back.” 
 
 “It’s Lee, mum. You know I prefer Lee.”
@@ -162,7 +163,8 @@ Her mother turned back to the food, snorting her disgust.
 David’s brow wrinkled. “But you don’t hike. You don’t even go to the gym anymore.”
 
 “I started boxing classes.” Lee crossed her arms, uncrossed them and placed her hand on her hips. “Besides, anyone can walk, David. You just put one foot in front of the other.”
-David looked sceptical. “You don’t know anything about hiking. You don’t even own a pair of boots.”
+
+David looked sceptical. “You don’t know anything about hiking," he said. "You don’t even own a pair of boots.”
 
 “I can learn,” Lee said. “It’s not rocket science.”
 
