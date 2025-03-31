@@ -8,9 +8,14 @@
   url = "#about"
   weight = 10
 
+#[[main]]
+#  name = "Bibbulmun"
+#  url = "#bibbulmun"
+#  weight = 20  
+  
 [[main]]
-  name = "Bibbulmun"
-  url = "#bibbulmun"
+  name = "The Track"
+  url = "#the_track"
   weight = 20  
   
 #[[main]]
@@ -19,12 +24,28 @@
 #  weight = 25
 
 [[main]]
-  name = "Published writing"
-  url = "#published"
+  name = "Microfiction"
+  url = "#microfiction"
   weight = 30
+
+[[main]]
+  name = "Haiku & Short Poems"
+  url = "#haiku"
+  weight = 31
+
   
 [[main]]
-  name = "Recent posts"
+  name = "Flash Fiction"
+  url = "#flash"
+  weight = 32
+  
+[[main]]
+  name = "Creative Nonfiction"
+  url = "#nonfiction"
+  weight = 33
+  
+[[main]]
+  name = "Recent Posts"
   url = "#posts"
   weight = 40
  

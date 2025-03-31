@@ -4,7 +4,7 @@ summary: ""
 #authors: ["admin"]
 reading_time: true  
 share: false  
-profile: true  
+profile: false  
 comments: false  
 ---
 
