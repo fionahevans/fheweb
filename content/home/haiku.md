@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 31  # Order that this section will appear.
 
-title = "Haiku and Short Poems"
+title = "Haiku and Poetry"
 subtitle = ""
 
 [content]
