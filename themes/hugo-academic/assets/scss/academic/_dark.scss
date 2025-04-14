@@ -55,17 +55,22 @@ body.dark,
   background-color: rgb(40, 42, 54);
 }
 
-/* Table Striped */
+.dark table > tbody > tr:nth-child(odd) > td,
+.dark table > tbody > tr:nth-child(odd) > th {
+  background-color: rgb(40, 42, 54);
+}
+
+/* Table Striped 
 .dark table > tbody > tr:nth-child(odd) > td,
 .dark table > tbody > tr:nth-child(odd) > th {
   background-color: rgb(50, 52, 64);
-}
+}*/
 
-/* Table Hover */
+/* Table Hover 
 .dark table > tbody > tr:hover > td,
 .dark table > tbody > tr:hover > th {
   background-color: rgb(60, 62, 74);
-}
+}*/
 
 .dark .article-title a {
   color: #fff;

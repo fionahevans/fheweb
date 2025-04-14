@@ -484,7 +484,8 @@ table {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   margin-bottom: 1rem;
-  font-size: 0.8rem;
+  /*font-size: 0.8rem;*/
+   font-size: 1rem;
 }
 
 table > thead > tr > th,
@@ -496,12 +497,12 @@ table > tfoot > tr > td {
   padding: 8px;
   line-height: 1.43;
   vertical-align: top;
-  border-top: 1px solid #ddd;
+  /*border-top: 1px solid #ddd;*/
 }
 
 table > thead > tr > th {
   vertical-align: bottom;
-  border-bottom: 2px solid #ddd;
+  /*border-bottom: 2px solid #ddd;*/
 }
 
 table > caption + thead > tr:first-child > th,
@@ -521,17 +522,22 @@ table table {
   background-color: #fff;
 }
 
-/* Table Striped */
+table > tbody > tr:nth-child(odd) > td,
+table > tbody > tr:nth-child(odd) > th {
+  background-color: #fff;
+}
+
+/* Table Striped 
 table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
   background-color: #f9f9f9;
-}
+}*/
 
-/* Table Hover */
+/* Table Hover 
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
   background-color: #e5e5e5;
-}
+}*/
 
 /*************************************************
  *  Article Alerts (Shortcode) and Asides (Mmark)

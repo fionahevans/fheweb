@@ -20,6 +20,9 @@ font_size = "12"
  
 +++
 
-Lee’s boyfriend dumps her because she’s miserable, so she decides to hike 1,000 km on the Bibbulmun Track in south-west Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery.
+<i>What would you do if your perfect life collapsed?</i>
 
-[Read more about my first novel, currently in revision.]({{< ref "the_track/index.md" >}})
+
+Lee’s boyfriend dumps her and her new boss makes her life miserable, so she quits. Desperate to find a new purpose in life, she decides to hike the Bibbulmun Track, a thousand kilometre walking trail through the south-west of Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery. 
+
+[Read more about my first novel, currently in revision with publication in late 2025.]({{< ref "the_track/index.md" >}})
