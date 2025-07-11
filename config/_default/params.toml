@@ -37,7 +37,7 @@ font_size = "M"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "LocalBusiness"
+site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -93,7 +93,7 @@ email = "fiona.h.evans@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-# address = {street = "90 South St", city = "Murdoch", region = "WA", postcode = "6050", country = "Australia", country_code = "AUS"}
+# address = {street = "18 Gilbert Street", city = "Bayswater", region = "WA", postcode = "6053", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = "wilhelm-gunkel-6bibCUj3lfA-unsplash.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-#twitter = "bigagdata"
+#twitter = "fionahevans"
 
 ############################
 ## Regional Settings
