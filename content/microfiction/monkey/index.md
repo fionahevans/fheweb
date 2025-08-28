@@ -4,7 +4,7 @@ external_link: https://fiftywordstories.com/2023/11/27/fiona-h-evans-monkey-magi
 image:
   caption: A picture of a boy hanging upside down in a tree, from Pexels by Anastasia. 
   focal_point: Smart
-summary: 50-Word Stories, 27 November 2023
+summary: 50-Word Stories, 27 Nov 2023
 tags:
 - Published
 title: Monkey Magic
