@@ -7,7 +7,7 @@ image:
 summary: 50-Word Stories, 27 Aug 2025
 tags:
 - Published
-title: Birralyn
+title: BIRRALYN means the sparks of the banksia over there
 ---
 <!--
 https://unsplash.com/photos/aLUl0vXcI_I?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
