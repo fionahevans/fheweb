@@ -21,7 +21,7 @@ This warm, character‑driven novel explores family, human connection, and the s
 
 Read the ebook now on Amazon: https://www.amazon.com.au/dp/B0GC2GGSF3/ref=sr_1_8
 
-Or subscribe to my newsletter on Substack to be informed of the paperback launch: https://substack.com/@fionahevans?
+Or subscribe to my newsletter on Substack to be informed of the paperback launch: https://substack.com/@fionahevans
 
 ![](cover.jpg) 
 
