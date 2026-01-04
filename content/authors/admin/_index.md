@@ -19,9 +19,17 @@ user_groups:
 <br/><br/><br/>
 -->
 # About Me
-I am a mathematician and writer, currently revising my first novel. I live in Perth, Western Australia, on Noongar boodja. 
+I am a mathematician and writer, who loves writing compressed stories: microfiction,
+flash and poetry. I published the e-book version of my first novel, The Track, 
+in December 2025 and will launch the paperback in March/Apil 2026. 
 
-I acknowledge and pay my respects to the traditional custodians of this country, the Whadjuk people of the Noongar nation. I recognise the strength, resilience and capacity of the Noongar people, their continuing culture and the contribution they make to life in this beautiful part of the world.
+
+I live in Perth, Western Australia, on <i>Noongar boodja</i>. 
+I acknowledge and pay my respects to the traditional custodians of 
+this country, the <i>Whadjuk</i> people of the <i>Noongar</i> nation. I recognise 
+the strength, resilience and capacity of the <i>Noongar</i> people, their 
+continuing culture and the contribution they make to life in this 
+beautiful part of the world.
 
 
 Connect with me on:<br>
