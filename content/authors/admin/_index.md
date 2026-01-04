@@ -19,8 +19,7 @@ user_groups:
 <br/><br/><br/>
 -->
 # About Me
-I am a mathematician and writer, who loves writing compressed stories: microfiction,
-flash and poetry. I published the e-book version of my first novel, The Track, 
+I am a mathematician and writer, who loves writing compressed stories and poetry. I published the e-book version of my first novel, The Track, 
 in December 2025 and will launch the paperback in March/Apil 2026. 
 
 
