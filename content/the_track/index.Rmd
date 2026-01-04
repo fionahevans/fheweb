@@ -12,7 +12,7 @@ comments: false
 <br/><br/><br/>
 -->
 
-![](cover.jpg){width=100px} 
+![](cover.jpg){width=100px}  
 
 <i>What would you do if your perfect life collapsed?</i>
 
