@@ -34,17 +34,22 @@ beautiful part of the world.
 
 Connect with me on:<br>
 <table>
-<td>X</td>
-<td><a href="https://x.com/fionahevans">@FionaHEvans</a></td>
+
+<td>Substack</td>
+<td><a href="https://fionahevans.substack.com/">@fionahevans</a></td>
+</tr>
+<tr>
+<td>Instagram</td>
+<td><a href="https://www.instagram.com/fionahevans/">@fionahevans</a></td>
 </tr>
 <tr>
 <td>Bluesky</td>
 <td><a href="https://bsky.app/profile/fionahevans.bsky.social">@fionahevans.bsky.social</a></td>
 </tr>
 <tr>
-<td>Substack</td>
-<td><a href="https://fionahevans.substack.com/">@fionahevans</a></td>
-</tr>
+<tr>
+<td>X</td>
+<td><a href="https://x.com/fionahevans">@FionaHEvans</a></td>
 </table>
 
 
