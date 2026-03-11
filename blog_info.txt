@@ -2,7 +2,7 @@
 # https://georgecushen.com/create-your-website-with-hugo/
 # https://github.com/Xipas/hugo-academic
 
-blogdown::update_hugo() 
+blogdown::install_hugo(version = "0.154.2") 
 install.packages("later")
 
 wowchemy https://bootstrap.hugoblox.com/
@@ -12,6 +12,7 @@ https://nickballou.com/blog/custom-wowchemy/
 
 # Images for blog posts are stored in static/media/img
 
+DO NOT UPDATE HUGO OR EVERYTHING WILL BREAK!
 
 blogdown::new_site(theme = "gcushen/hugo-academic", empty_dirs = T) 
 

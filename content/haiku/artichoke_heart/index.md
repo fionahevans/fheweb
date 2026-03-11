@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Haiku Down Under Anthology - "A Sensory Journey", 4 Dec 2024
 tags:
-- Published
+- Published, Haiku
 title: Artichoke Heart
 ---
 <!--

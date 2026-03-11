@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: 50-Word Stories, 27 Aug 2025
 tags:
-- Published
+- Published, Haiku
 title: BIRRALYN means the sparks of the banksia over there
 ---
 <!--
