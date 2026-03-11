@@ -1,5 +1,5 @@
 ---
-date: "2026-04-18T00:00:00Z"
+date: "2026-01-30T00:00:00Z"
 external_link: https://events.humanitix.com/guest-author-fiona-h-evans
 image:
   caption: The Track follows thirty-year-old Lee after her perfect life unravels and she makes a brave, rash decision to hike the Bibbulmun Track
