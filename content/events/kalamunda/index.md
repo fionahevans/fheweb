@@ -7,6 +7,6 @@ image:
 summary: Kalamunda Readers Festival Hall of Stars, Sunday 22 March 2026
 tags:
 - Events
-title: Author Signing Event
+title: Author Book Signing Event
 share: true
 ---
