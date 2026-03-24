@@ -1,5 +1,5 @@
 ---
-date: "2026-01-31T00:00:00Z"
+date: "2026-01-27T00:00:00Z"
 external_link: https://albany-events.bookable.net.au/#!/event-detail/Thetrack
 image:
   caption: Find me at the Halls of Stars on Sunday 22 March
