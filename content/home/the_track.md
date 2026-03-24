@@ -23,6 +23,6 @@ font_size = "12"
 <i>What would you do if your perfect life collapsed?</i>
 
 
-Lee’s perfect life unravels fast. The man she planned to be with forever dumps her and a humiliating clash with her new boss forces her to quit her dream job. Desperate to find a new life purpose, she makes a brave, rash decision to hike the Bibbulmun Track—a thousand-kilometre walking trail through the south-west of Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey to self-discovery.
+Lee’s perfect life unravels fast. The man she planned to be with forever dumps her and a humiliating clash with her new boss forces her to quit her dream job. Desperate to find a new life purpose, she makes a brave, rash decision to hike the Bibbulmun Track—a thousand-kilometre walking trail through the south-west of Western Australia. Her brand-new boots carry her along a wind-swept coastline and through ancient forests, but ultimately Lee is on a journey of self-discovery.
 
 [Read more about my first novel.]({{< ref "the_track/index.md" >}})
