@@ -32,10 +32,12 @@ Western Australian landscape, its flora and fauna, the diverse characters who li
 and visit the area, and the language, culture and history of the Noongar people 
 who are the traditional custodians of this country.
 
-<b>Buy now on Amazon:</b> 
+<a href="https://books2read.com/The-Track-Fiona-H-Evans"><b>Click here to buy now from your preferred online retailer!</b></a>
+<!--https://books2read.com/u/3GnMDO
 https://www.amazon.com.au/dp/B0GC2GGSF3.
+-->
 
-<b>Or ask your local bookstore to order the paperback:</b>
+<b>Or ask your local bookstore or library to order the paperback:</b>
 <table style="text-indent: 1cm; padding: 0px;">
 <tr>
 <td style=" padding: 0px;"> Title: </td> <td style=" padding: 0px;"> The Track </td>
