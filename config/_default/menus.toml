@@ -18,10 +18,10 @@
   url = "#the_track"
   weight = 20  
   
-[[main]]
-  name = "Events"
-  url = "#events"
-  weight = 29 
+#[[main]]
+#  name = "Events"
+#  url = "#events"
+#  weight = 29 
   
 #[[main]]
 #  name = "Published writing"
