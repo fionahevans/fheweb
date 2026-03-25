@@ -113,7 +113,7 @@ Collie Public Library<br>
 Bookings: https://events.humanitix.com/guest-author-fiona-h-evans
 </td>
 </table>
-
+ 
 <table>
 <tr>
 <td> ![](dwellingup.jpg){height=300px width=211px} </td>
