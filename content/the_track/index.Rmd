@@ -94,7 +94,7 @@ Books will be available for sale at the discount price of $27.99 at all author e
 
 <table>
 <tr>
-<td> ![](kalamunda.jpg){height=100px} </td>
+<td> ![](kalamunda.jpg){height=200px width=200px} </td>
 <td>
 <b>Hall of Stars Book Signing at the Kalamunda Readers Festival</b><br>
 Sunday 22 March 2026<br>
@@ -105,7 +105,7 @@ Bookings: https://www.trybooking.com/events/landing/1499178
 
 <table>
 <tr>
-<td> ![](collie.jpg){height=100px} </td>
+<td> ![](collie.jpg){height=200px width=141px} </td>
 <td>
 <b>Guest Author Event</b><br>
 10:30am Saturday 18 April <br>
@@ -116,7 +116,7 @@ Bookings: https://events.humanitix.com/guest-author-fiona-h-evans
 
 <table>
 <tr>
-<td> ![](dwellingup.jpg){height=100px} </td>
+<td> ![](dwellingup.jpg){height=300px width=211px} </td>
 <td>
 <b>Author Talk, Q&A, Book Sales & Signing</b><br>
 10:00am Friday 24 April <br>
@@ -127,7 +127,7 @@ Bookings: https://www.eventbrite.com.au/e/fiona-h-evans-the-track-tickets-198444
 
 <table>
 <tr>
-<td> ![](albany.jpg){height=100px} </td>
+<td> ![](albany.jpg){height=200px width=141px} </td>
 <td>
 <b>Author Talk</b><br>
 2pm Friday 1 May <br>
