@@ -4,10 +4,10 @@ external_link: https://brightflash1000.com/2026/04/02/octopus-heart/
 image:
   caption: 
   focal_point: Smart
-summary: Bright Flash Literary Review
+summary: Bright Flash Literary Review, 2 April 2026
 tags:
 - published, microfiction
-title: Octopus Heart, 2 April 2026
+title: Octopus Heart
 share: true
 ---
 <!--
