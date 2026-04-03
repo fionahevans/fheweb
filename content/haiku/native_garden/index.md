@@ -6,10 +6,14 @@ image:
   focal_point: Smart
 summary: Echidna Tracks, 29 Sep 2025
 tags:
-- Published
+- published, haiku
 title: Native Garden 
 share: true
 ---
 <!--
 
 -->
+
+native garden<br>
+poetry written<br>
+outside the lines

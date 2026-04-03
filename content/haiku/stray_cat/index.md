@@ -6,9 +6,7 @@ image:
   focal_point: Smart
 summary: Creatrix 68, 3 Mar 2025
 tags:
-- Published
-- haiku
-- senryu
+- published, haiku, senryu
 title: Stray Thought
 share: true
 ---

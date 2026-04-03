@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Daily Haiga, 26 Jul 2025
 tags:
-- Published
+- published, haiga
 title: Raindrops
 share: true
 ---

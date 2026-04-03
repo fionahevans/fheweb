@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Daily Haiga, 17 Mar 2024
 tags:
-- Published
+- published, haiga
 title: Summer Romance
 share: true
 ---

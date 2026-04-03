@@ -6,7 +6,11 @@ image:
   focal_point: Smart
 summary: Under The Same Moon, Fourth Australian Haiku Anthology, 1 Sep 2023
 tags:
-- Published
+- published, haiku
 title: Desert Rainstorm
 share: true
 ---
+
+<p>desert rainstorm
+<p>a flood of
+<p>wildflowers

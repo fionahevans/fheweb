@@ -6,10 +6,14 @@ image:
   focal_point: Smart
 summary: Nanoism, 29 Jun 2022
 tags:
-- Published
+- published, nanofiction
 title: Wendy
 ---
 <!--
 #Image by <a href="https://pixabay.com/users/alexas_fotos-686414/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6960542">Alexa</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6960542">Pixabay</a>
 #Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=65675">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=65675">Pixabay</a>
 -->
+
+Wendy feels panicky. The bread is moldy, there is nothing to cook for lunch, and her son is already talking about Sunnyside retirement home.
+
+<i>Fiona H Evans (@FionaHEvans) is a mathematician and occasional writer of stories.</i>

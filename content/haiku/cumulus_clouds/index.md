@@ -6,9 +6,12 @@ image:
   focal_point: Smart
 summary: Creatrix 67, 26 Nov 2024
 tags:
-- Published
+- published, haiku
 title: Cumulus Clouds
 ---
 <!--
 Image by Annette from Pixabay
 -->
+<p>cumulus clouds
+<p>wearing pyjamas
+<p>all day long

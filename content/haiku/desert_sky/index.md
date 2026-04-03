@@ -6,10 +6,14 @@ image:
   focal_point: Smart
 summary: Echidna Tracks, 31 Mar 2025
 tags:
-- Published
+- published, haiku
 title: Desert Sky
 share: true
 ---
 <!--
 
 -->
+
+desert sky
+<p>through the train window
+<p>a shiver of moonlight

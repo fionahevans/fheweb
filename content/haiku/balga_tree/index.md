@@ -6,10 +6,16 @@ image:
   focal_point: Smart
 summary: Echidna Tracks, 15 Feb 2024
 tags:
-- Published, Haiku
+- published, haiku
 title: balga tree
 share: true
 ---
 <!--
 
 -->
+
+<p>balga tree
+
+<p>a warrior stands
+
+<p>on one leg

@@ -6,10 +6,14 @@ image:
   focal_point: Smart
 summary: tinywords, 21 Oct 2022
 tags:
-- Published
+- published, haiku
 title: desert rainstorm
 share: true
 ---
 <!--
 
 -->
+
+<p>desert rainstorm
+<p>a flood of
+<p>wildflowers

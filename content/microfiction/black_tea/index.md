@@ -6,9 +6,15 @@ image:
   focal_point: Smart
 summary: 50 Give or Take, 23 Dec 2024
 tags:
-- Published
+- published, microfiction, dribble
 title: I Drink My Tea Black Now
 ---
 <!--
 Image by congerdesign from Pixabay
 -->
+
+<b>I Drink My Tea Black Now</b>
+
+I pour boiling water into the teapot and without thinking, reach into the fridge for milk. Sitting across from your empty seat, watching steam rise from my cup, I cannot stop myself. I swipe at my phone and read it again. Your last text: “Stopped for milk. Home soon.”
+
+<i>Fiona H Evans, living in Western Australia, is a mathematician who writes what she feels.</i>

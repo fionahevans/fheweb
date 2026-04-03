@@ -6,9 +6,7 @@ image:
   focal_point: Smart
 summary: failed haiku 108, 28 Feb 2025
 tags:
-- Published
-- haiku
-- senryu
+- published, haiku, senryu
 title: failed haiku
 share: true
 ---

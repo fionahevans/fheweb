@@ -6,6 +6,8 @@ image:
   focal_point: Smart
 summary: Paragraph Planet, 19 Jul 2022
 tags:
-- Published
+- published, microfiction
 title: We use cookies to improve your experience on our site and to show you relevant advertising
 ---
+
+![](featured.jpg){height=200px} 

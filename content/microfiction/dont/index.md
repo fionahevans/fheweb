@@ -6,9 +6,18 @@ image:
   focal_point: Smart
 summary: 50 Give or Take, 19 Jan 2024
 tags: 
-- Published
+- published, microfiction, dribble
 title: Don't Look Back
 ---
 <!--
 Photo by Alina Kurson: https://www.pexels.com/photo/man-in-green-jacket-holding-an-old-photo-8957064/
 -->
+
+<b>Don't Look Back</b>
+
+Don't notice him enter the bar with his new girl. Don't watch them sit. Don't catch his eye. Don't let him follow you to the bathroom. Don't listen when he says he still loves you. Don’t lean into his kiss. Don’t take him home so he can leave you again.
+
+
+
+
+<i>Fiona H Evans loves words and mathematics.</i>

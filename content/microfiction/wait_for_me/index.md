@@ -6,6 +6,8 @@ image:
   focal_point: Smart
 summary: Paragraph Planet, 11 Feb 2024
 tags:
-- Published
+- published, microfiction
 title: When she told me she'd wait for me
 ---
+
+![](featured.jpg){height=200px} 
