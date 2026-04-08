@@ -21,7 +21,7 @@ user_groups:
 # About Me
 I am a mathematician and writer, who loves writing compressed stories and 
 poetry. I published the e-book version of my first novel, The Track, 
-in December 2025 and will launch the paperback in March/April 2026. 
+in December 2025 and the paperback in March 2026. 
 
 
 I live in Perth, Western Australia, on <i>Noongar boodja</i>. 
