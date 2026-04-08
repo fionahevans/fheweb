@@ -46,10 +46,13 @@ Connect with me on:<br>
 <td>Bluesky</td>
 <td><a href="https://bsky.app/profile/fionahevans.bsky.social">@fionahevans.bsky.social</a></td>
 </tr>
-<tr>
+
+<!--
 <tr>
 <td>X</td>
 <td><a href="https://x.com/fionahevans">@FionaHEvans</a></td>
+tr>
+-->
 </table>
 
 
