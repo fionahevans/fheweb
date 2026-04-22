@@ -120,9 +120,15 @@ Bookings: https://albany-events.bookable.net.au/#!/event-detail/Thetrack
 </td>
 </table>
 
+<table>
+<tr>
+<td> ![](denmark.jpg){height=200px width=141px} </td>
+<td>
 <b>Author Talk, Book Sales & Signing</b><br>
 2pm Monday 4 May <br>
 Denmark Public Library<br>
+</td>
+</table>
 
 <b>Author Talk, Book Sales & Signing</b><br>
 11am Friday 8 May <br>
