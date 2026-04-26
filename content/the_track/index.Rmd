@@ -74,6 +74,7 @@ Subscribe to my newsletter on Substack to be informed when the audiobook is laun
 
 Books will be available for sale at the discount price of $27.99 at all author events. 
 
+
 <!--
 <table>
 <tr>
@@ -85,7 +86,6 @@ Kalamunda Performing Arts Centre - Agricultural Hall<br>
 Bookings: https://www.trybooking.com/events/landing/1499178
 </td>
 </table>
--->
 
 <table>
 <tr>
@@ -108,6 +108,7 @@ Dwellingup Trails and Visitor Centre<br>
 Bookings: https://www.eventbrite.com.au/e/fiona-h-evans-the-track-tickets-1984442533036
 </td>
 </table>
+-->
 
 <table>
 <tr>
@@ -130,9 +131,15 @@ Denmark Public Library<br>
 </td>
 </table>
 
+<table>
+<tr>
+<td> ![](walpole.jpg){height=200px width=141px} </td>
+<td>
 <b>Author Talk, Book Sales & Signing</b><br>
 11am Friday 8 May <br>
 Walpole Public Library<br>
+</td>
+</table>
 
 <b>Author Talk, Book Sales & Signing</b><br>
 5:30pm Wednesday 10 June<br>
