@@ -108,7 +108,7 @@ Dwellingup Trails and Visitor Centre<br>
 Bookings: https://www.eventbrite.com.au/e/fiona-h-evans-the-track-tickets-1984442533036
 </td>
 </table>
--->
+
 
 <table>
 <tr>
@@ -141,15 +141,22 @@ Walpole Public Library<br>
 </td>
 </table>
 
+-->
+
+<table>
+<tr>
+<td> ![](Bayswater.jpg){height=800px width=640px} </td>
+<td>
 <b>Author Talk, Book Sales & Signing</b><br>
 5:30pm Wednesday 10 June<br>
 Bayswater Public Library<br>
+Bookings: https://www.eventbrite.com.au/e/discover-the-track-with-fiona-h-evans-tickets-1988150050320 <br>
 ... Followed by drinks and dinner at a local small bar. 
+</td>
+</table> 
 
-<br>  
 
-
-<h2>What Readers are Saying:</h2>  
+<h2>What Readers are Saying:</h2>    
 
 "I love how you bring the world to life with your writing in the book. 
 It's very rich description and a very enjoyable read." <br>
@@ -161,9 +168,14 @@ It's very rich description and a very enjoyable read." <br>
 "I have been trying to get back to reading and this has made 
 me remember why I love it so much." <br>
 
-"It was a super read. So much to relate to." <br>
+"It was a super read. So much to relate to." <br> 
 
-"I’m loving being transported along the Bibbulmun Track and even reading it on my phone isn’t slowing me down. I can’t put it down!"
+"I’m loving being transported along the Bibbulmun Track and even reading it on my phone isn’t slowing me down. I can’t put it down!" 
+
+Read more reviews on <a href = "https://www.amazon.com.au/product-reviews/B0GC2GGSF3/ref=cm_cr_dp_d_show_all_top" >Amazon</a> and <a href = "https://www.goodreads.com/en/book/show/245666278-the-track">goodreads</a>. And don't forget to leave yours!
+
+
+
 
 
 
