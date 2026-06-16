@@ -9193,3 +9193,8 @@ html[dir="rtl"] body {
 
 footer {
   margin: 0 0 0; }
+
+.article-style img {
+  display: inline-block;
+  width: auto;
+  /* Or specify a percentage like 48% if using two side-by-side */ }

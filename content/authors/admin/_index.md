@@ -46,6 +46,11 @@ Connect with me on:<br>
 <td>Bluesky</td>
 <td><a href="https://bsky.app/profile/fionahevans.bsky.social">@fionahevans.bsky.social</a></td>
 </tr>
+<tr>
+<td>Facebook</td>
+<td><a href="https://www.facebook.com/fionahevans.author"> @fionahevans.author
+</a></td>
+</tr>
 
 <!--
 <tr>
